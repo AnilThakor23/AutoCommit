@@ -1,4 +1,4 @@
 # Hide the automation files from GitHub
-auto.sh
+autocommit.sh
 .counter
 sync_log.txt
